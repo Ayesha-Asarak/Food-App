@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268680784308",
+    "project_id": "ano-foodapp",
+    "storage_bucket": "ano-foodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268680784308:android:2bacc0cf7304083297eae1",
+        "android_client_info": {
+          "package_name": "com.example.ano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjE1i7cRaFazi6idzj-vB5uJ2CRdYiJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268680784308:android:265f39a19b7e25c297eae1",
+        "android_client_info": {
+          "package_name": "com.example.anoj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjE1i7cRaFazi6idzj-vB5uJ2CRdYiJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
